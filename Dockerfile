@@ -1,1 +1,1 @@
-FROM hashicorp/terraform:0.12.15
+FROM hashicorp/terraform:0.12.16
