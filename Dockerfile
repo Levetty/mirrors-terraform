@@ -1,1 +1,1 @@
-FROM hashicorp/terraform:0.7.5
+FROM hashicorp/terraform:0.7.6
