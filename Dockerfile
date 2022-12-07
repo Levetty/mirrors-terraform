@@ -1,1 +1,1 @@
-FROM hashicorp/terraform:1.3.1
+FROM hashicorp/terraform:1.3.2
