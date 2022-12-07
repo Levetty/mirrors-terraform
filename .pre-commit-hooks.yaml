@@ -1,0 +1,9 @@
+-   id: terraform
+    name: terraform
+    description: ''
+    entry: terraform
+    language: docker
+    'types': [file]
+    args: []
+    require_serial: false
+    minimum_pre_commit_version: '0'
